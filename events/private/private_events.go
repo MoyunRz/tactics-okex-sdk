@@ -1,9 +1,9 @@
 package private
 
 import (
-	"tactics-okex-sdk/events"
-	"tactics-okex-sdk/models/account"
-	"tactics-okex-sdk/models/trade"
+	"github.com/MoyunRz/tactics-okex-sdk/events"
+	"github.com/MoyunRz/tactics-okex-sdk/models/account"
+	"github.com/MoyunRz/tactics-okex-sdk/models/trade"
 )
 
 type (

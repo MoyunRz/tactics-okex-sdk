@@ -10,10 +10,11 @@ import (
 	"net/http"
 	"net/url"
 	"strings"
-	okex "tactics-okex-sdk"
-	requests "tactics-okex-sdk/requests/rest/public"
-	responses "tactics-okex-sdk/responses/public_data"
 	"time"
+
+	okex "github.com/MoyunRz/tactics-okex-sdk"
+	requests "github.com/MoyunRz/tactics-okex-sdk/requests/rest/public"
+	responses "github.com/MoyunRz/tactics-okex-sdk/responses/public_data"
 )
 
 // ClientRest is the rest api client

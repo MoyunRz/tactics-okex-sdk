@@ -2,9 +2,10 @@ package api
 
 import (
 	"context"
-	okex_sdk "tactics-okex-sdk"
-	"tactics-okex-sdk/api/rest"
-	"tactics-okex-sdk/api/ws"
+
+	okex_sdk "github.com/MoyunRz/tactics-okex-sdk"
+	"github.com/MoyunRz/tactics-okex-sdk/api/rest"
+	"github.com/MoyunRz/tactics-okex-sdk/api/ws"
 )
 
 // Client is the main retrieval wrapper of okex-sdk

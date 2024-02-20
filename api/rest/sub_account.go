@@ -4,9 +4,10 @@ import (
 	"encoding/json"
 	"net/http"
 	"strings"
-	okex "tactics-okex-sdk"
-	requests "tactics-okex-sdk/requests/rest/subaccount"
-	responses "tactics-okex-sdk/responses/sub_account"
+
+	okex "github.com/MoyunRz/tactics-okex-sdk"
+	requests "github.com/MoyunRz/tactics-okex-sdk/requests/rest/subaccount"
+	responses "github.com/MoyunRz/tactics-okex-sdk/responses/sub_account"
 )
 
 // SubAccount

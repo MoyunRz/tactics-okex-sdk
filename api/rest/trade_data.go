@@ -3,9 +3,10 @@ package rest
 import (
 	"encoding/json"
 	"net/http"
-	okex "tactics-okex-sdk"
-	requests "tactics-okex-sdk/requests/rest/tradedata"
-	responses "tactics-okex-sdk/responses/trade_data"
+
+	okex "github.com/MoyunRz/tactics-okex-sdk"
+	requests "github.com/MoyunRz/tactics-okex-sdk/requests/rest/tradedata"
+	responses "github.com/MoyunRz/tactics-okex-sdk/responses/trade_data"
 )
 
 // TradeData

@@ -1,4 +1,4 @@
-module tactics-okex-sdk
+module github.com/MoyunRz/tactics-okex-sdk
 
 go 1.20
 

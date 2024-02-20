@@ -1,8 +1,8 @@
 package funding
 
 import (
-	models "tactics-okex-sdk/models/funding"
-	"tactics-okex-sdk/responses"
+	models "github.com/MoyunRz/tactics-okex-sdk/models/funding"
+	"github.com/MoyunRz/tactics-okex-sdk/responses"
 )
 
 type (

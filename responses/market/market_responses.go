@@ -1,8 +1,8 @@
 package market
 
 import (
-	"tactics-okex-sdk/models/market"
-	"tactics-okex-sdk/responses"
+	"github.com/MoyunRz/tactics-okex-sdk/models/market"
+	"github.com/MoyunRz/tactics-okex-sdk/responses"
 )
 
 type (

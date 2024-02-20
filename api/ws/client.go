@@ -9,9 +9,10 @@ import (
 	"fmt"
 	"net/http"
 	"sync"
-	"tactics-okex-sdk/events"
 	"time"
-	okex_sdk "tactics-okex-sdk"
+
+	okex_sdk "github.com/MoyunRz/tactics-okex-sdk"
+	"github.com/MoyunRz/tactics-okex-sdk/events"
 	"github.com/gorilla/websocket"
 )
 

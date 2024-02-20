@@ -4,9 +4,10 @@ import (
 	"encoding/json"
 	"net/http"
 	"strings"
-	okex "tactics-okex-sdk"
-	requests "tactics-okex-sdk/requests/rest/funding"
-	responses "tactics-okex-sdk/responses/funding"
+
+	okex "github.com/MoyunRz/tactics-okex-sdk"
+	requests "github.com/MoyunRz/tactics-okex-sdk/requests/rest/funding"
+	responses "github.com/MoyunRz/tactics-okex-sdk/responses/funding"
 )
 
 // Funding

@@ -1,8 +1,8 @@
 package public_data
 
 import (
-	"tactics-okex-sdk/models/publicdata"
-	"tactics-okex-sdk/responses"
+	"github.com/MoyunRz/tactics-okex-sdk/models/publicdata"
+	"github.com/MoyunRz/tactics-okex-sdk/responses"
 )
 
 type (

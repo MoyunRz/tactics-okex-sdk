@@ -4,9 +4,10 @@ import (
 	"encoding/json"
 	"net/http"
 	"strings"
-	okex "tactics-okex-sdk"
-	requests "tactics-okex-sdk/requests/rest/account"
-	responses "tactics-okex-sdk/responses/account"
+
+	okex "github.com/MoyunRz/tactics-okex-sdk"
+	requests "github.com/MoyunRz/tactics-okex-sdk/requests/rest/account"
+	responses "github.com/MoyunRz/tactics-okex-sdk/responses/account"
 )
 
 // Account

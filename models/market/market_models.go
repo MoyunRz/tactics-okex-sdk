@@ -4,8 +4,9 @@ import (
 	"encoding/json"
 	"fmt"
 	"strconv"
-	okex_sdk "tactics-okex-sdk"
 	"time"
+
+	okex_sdk "github.com/MoyunRz/tactics-okex-sdk"
 )
 
 type (

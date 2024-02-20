@@ -1,6 +1,6 @@
 package public
 
-import okex_sdk "tactics-okex-sdk"
+import okex_sdk "github.com/MoyunRz/tactics-okex-sdk"
 
 type (
 	Instruments struct {

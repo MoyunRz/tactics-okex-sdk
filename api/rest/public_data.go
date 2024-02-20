@@ -3,9 +3,10 @@ package rest
 import (
 	"encoding/json"
 	"net/http"
-	okex "tactics-okex-sdk"
-	requests "tactics-okex-sdk/requests/rest/public"
-	responses "tactics-okex-sdk/responses/public_data"
+
+	okex "github.com/MoyunRz/tactics-okex-sdk"
+	requests "github.com/MoyunRz/tactics-okex-sdk/requests/rest/public"
+	responses "github.com/MoyunRz/tactics-okex-sdk/responses/public_data"
 )
 
 // PublicData

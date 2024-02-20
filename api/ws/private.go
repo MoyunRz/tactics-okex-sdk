@@ -2,10 +2,11 @@ package ws
 
 import (
 	"encoding/json"
-	okex_sdk "tactics-okex-sdk"
-	"tactics-okex-sdk/events"
-	"tactics-okex-sdk/events/private"
-	requests "tactics-okex-sdk/requests/ws/private"
+
+	okex_sdk "github.com/MoyunRz/tactics-okex-sdk"
+	"github.com/MoyunRz/tactics-okex-sdk/events"
+	"github.com/MoyunRz/tactics-okex-sdk/events/private"
+	requests "github.com/MoyunRz/tactics-okex-sdk/requests/ws/private"
 )
 
 // Private

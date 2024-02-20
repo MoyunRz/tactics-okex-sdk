@@ -1,8 +1,8 @@
 package account
 
 import (
-	models "tactics-okex-sdk/models/account"
-	"tactics-okex-sdk/responses"
+	models "github.com/MoyunRz/tactics-okex-sdk/models/account"
+	"github.com/MoyunRz/tactics-okex-sdk/responses"
 )
 
 type (

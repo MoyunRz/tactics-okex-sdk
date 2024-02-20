@@ -1,9 +1,9 @@
 package sub_account
 
 import (
-	"tactics-okex-sdk/models/account"
-	models "tactics-okex-sdk/models/subaccount"
-	"tactics-okex-sdk/responses"
+	"github.com/MoyunRz/tactics-okex-sdk/models/account"
+	models "github.com/MoyunRz/tactics-okex-sdk/models/subaccount"
+	"github.com/MoyunRz/tactics-okex-sdk/responses"
 )
 
 type (

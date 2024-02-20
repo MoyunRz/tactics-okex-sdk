@@ -1,8 +1,8 @@
 package trade_data
 
 import (
-	"tactics-okex-sdk/models/tradedata"
-	"tactics-okex-sdk/responses"
+	"github.com/MoyunRz/tactics-okex-sdk/models/tradedata"
+	"github.com/MoyunRz/tactics-okex-sdk/responses"
 )
 
 type (

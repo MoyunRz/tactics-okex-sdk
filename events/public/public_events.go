@@ -1,9 +1,9 @@
 package public
 
 import (
-	"tactics-okex-sdk/events"
-	"tactics-okex-sdk/models/market"
-	"tactics-okex-sdk/models/publicdata"
+	"github.com/MoyunRz/tactics-okex-sdk/events"
+	"github.com/MoyunRz/tactics-okex-sdk/models/market"
+	"github.com/MoyunRz/tactics-okex-sdk/models/publicdata"
 )
 
 type (

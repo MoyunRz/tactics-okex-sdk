@@ -1,8 +1,8 @@
 package ws
 
 import (
-	okex_sdk "tactics-okex-sdk"
-	requests "tactics-okex-sdk/requests/ws/trade"
+	okex_sdk "github.com/MoyunRz/tactics-okex-sdk"
+	requests "github.com/MoyunRz/tactics-okex-sdk/requests/ws/trade"
 )
 
 // Trade

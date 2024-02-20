@@ -2,7 +2,8 @@ package events
 
 import (
 	"encoding/json"
-	okex_sdk "tactics-okex-sdk"
+
+	okex_sdk "github.com/MoyunRz/tactics-okex-sdk"
 )
 
 type (

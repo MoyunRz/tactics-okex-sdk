@@ -4,10 +4,11 @@ import (
 	"encoding/json"
 	"fmt"
 	"strings"
-	okex_sdk "tactics-okex-sdk"
-	"tactics-okex-sdk/events"
-	"tactics-okex-sdk/events/public"
-	requests "tactics-okex-sdk/requests/ws/public"
+
+	okex_sdk "github.com/MoyunRz/tactics-okex-sdk"
+	"github.com/MoyunRz/tactics-okex-sdk/events"
+	"github.com/MoyunRz/tactics-okex-sdk/events/public"
+	requests "github.com/MoyunRz/tactics-okex-sdk/requests/ws/public"
 )
 
 // Public
