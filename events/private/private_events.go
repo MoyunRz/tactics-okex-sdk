@@ -1,9 +1,9 @@
 package private
 
 import (
-	"chain-tactics/okex-sdk/events"
-	"chain-tactics/okex-sdk/models/account"
-	"chain-tactics/okex-sdk/models/trade"
+	"tactics-okex-sdk/events"
+	"tactics-okex-sdk/models/account"
+	"tactics-okex-sdk/models/trade"
 )
 
 type (

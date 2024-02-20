@@ -1,18 +1,18 @@
 package ws
 
 import (
-	"chain-tactics/okex-sdk"
-	"chain-tactics/okex-sdk/events"
 	"context"
 	"crypto/hmac"
 	"crypto/sha256"
 	"encoding/base64"
 	"encoding/json"
 	"fmt"
-	"github.com/gorilla/websocket"
 	"net/http"
 	"sync"
+	"tactics-okex-sdk/events"
 	"time"
+	okex_sdk "tactics-okex-sdk"
+	"github.com/gorilla/websocket"
 )
 
 // ClientWs is the websocket retrieval client

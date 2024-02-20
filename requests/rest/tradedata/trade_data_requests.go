@@ -1,6 +1,6 @@
 package tradedata
 
-import "chain-tactics/okex-sdk"
+import okex_sdk "tactics-okex-sdk"
 
 type (
 	GetTakerVolume struct {

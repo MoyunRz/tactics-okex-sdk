@@ -1,8 +1,8 @@
 package funding
 
 import (
-	models "chain-tactics/okex-sdk/models/funding"
-	"chain-tactics/okex-sdk/responses"
+	models "tactics-okex-sdk/models/funding"
+	"tactics-okex-sdk/responses"
 )
 
 type (

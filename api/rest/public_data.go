@@ -1,11 +1,11 @@
 package rest
 
 import (
-	okex "chain-tactics/okex-sdk"
-	requests "chain-tactics/okex-sdk/requests/rest/public"
-	responses "chain-tactics/okex-sdk/responses/public_data"
 	"encoding/json"
 	"net/http"
+	okex "tactics-okex-sdk"
+	requests "tactics-okex-sdk/requests/rest/public"
+	responses "tactics-okex-sdk/responses/public_data"
 )
 
 // PublicData

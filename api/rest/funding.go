@@ -1,12 +1,12 @@
 package rest
 
 import (
-	okex "chain-tactics/okex-sdk"
-	requests "chain-tactics/okex-sdk/requests/rest/funding"
-	responses "chain-tactics/okex-sdk/responses/funding"
 	"encoding/json"
 	"net/http"
 	"strings"
+	okex "tactics-okex-sdk"
+	requests "tactics-okex-sdk/requests/rest/funding"
+	responses "tactics-okex-sdk/responses/funding"
 )
 
 // Funding

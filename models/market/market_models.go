@@ -1,10 +1,10 @@
 package market
 
 import (
-	"chain-tactics/okex-sdk"
 	"encoding/json"
 	"fmt"
 	"strconv"
+	okex_sdk "tactics-okex-sdk"
 	"time"
 )
 

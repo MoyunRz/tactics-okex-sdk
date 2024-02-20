@@ -1,11 +1,11 @@
 package ws
 
 import (
-	"chain-tactics/okex-sdk"
-	"chain-tactics/okex-sdk/events"
-	"chain-tactics/okex-sdk/events/private"
-	requests "chain-tactics/okex-sdk/requests/ws/private"
 	"encoding/json"
+	okex_sdk "tactics-okex-sdk"
+	"tactics-okex-sdk/events"
+	"tactics-okex-sdk/events/private"
+	requests "tactics-okex-sdk/requests/ws/private"
 )
 
 // Private

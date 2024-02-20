@@ -1,11 +1,11 @@
 package rest
 
 import (
-	okex "chain-tactics/okex-sdk"
-	requests "chain-tactics/okex-sdk/requests/rest/trade"
-	responses "chain-tactics/okex-sdk/responses/trade"
 	"encoding/json"
 	"net/http"
+	okex "tactics-okex-sdk"
+	requests "tactics-okex-sdk/requests/rest/trade"
+	responses "tactics-okex-sdk/responses/trade"
 )
 
 // Trade

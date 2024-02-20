@@ -1,7 +1,5 @@
 package account
-
-import "chain-tactics/okex-sdk"
-
+import okex_sdk "tactics-okex-sdk"
 type (
 	GetBalance struct {
 		Ccy []string `json:"ccy,omitempty"`

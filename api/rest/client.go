@@ -2,9 +2,6 @@ package rest
 
 import (
 	"bytes"
-	okex "chain-tactics/okex-sdk"
-	requests "chain-tactics/okex-sdk/requests/rest/public"
-	responses "chain-tactics/okex-sdk/responses/public_data"
 	"crypto/hmac"
 	"crypto/sha256"
 	"encoding/base64"
@@ -13,6 +10,9 @@ import (
 	"net/http"
 	"net/url"
 	"strings"
+	okex "tactics-okex-sdk"
+	requests "tactics-okex-sdk/requests/rest/public"
+	responses "tactics-okex-sdk/responses/public_data"
 	"time"
 )
 

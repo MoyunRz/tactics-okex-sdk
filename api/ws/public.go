@@ -1,13 +1,13 @@
 package ws
 
 import (
-	"chain-tactics/okex-sdk"
-	"chain-tactics/okex-sdk/events"
-	"chain-tactics/okex-sdk/events/public"
-	requests "chain-tactics/okex-sdk/requests/ws/public"
 	"encoding/json"
 	"fmt"
 	"strings"
+	okex_sdk "tactics-okex-sdk"
+	"tactics-okex-sdk/events"
+	"tactics-okex-sdk/events/public"
+	requests "tactics-okex-sdk/requests/ws/public"
 )
 
 // Public

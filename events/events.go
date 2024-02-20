@@ -1,8 +1,8 @@
 package events
 
 import (
-	"chain-tactics/okex-sdk"
 	"encoding/json"
+	okex_sdk "tactics-okex-sdk"
 )
 
 type (

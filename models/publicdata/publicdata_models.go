@@ -1,9 +1,5 @@
 package publicdata
-
-import (
-	"chain-tactics/okex-sdk"
-)
-
+import okex_sdk "tactics-okex-sdk"
 type (
 	Instrument struct {
 		InstID    string                   `json:"instId"`

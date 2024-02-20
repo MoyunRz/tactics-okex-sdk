@@ -1,8 +1,8 @@
 package trade
 
 import (
-	"chain-tactics/okex-sdk/models/trade"
-	"chain-tactics/okex-sdk/responses"
+	"tactics-okex-sdk/models/trade"
+	"tactics-okex-sdk/responses"
 )
 
 type (

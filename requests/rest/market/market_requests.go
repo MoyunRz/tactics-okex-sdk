@@ -1,6 +1,6 @@
 package market
 
-import "chain-tactics/okex-sdk"
+import okex_sdk "tactics-okex-sdk"
 
 type (
 	GetTickers struct {

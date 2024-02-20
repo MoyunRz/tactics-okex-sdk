@@ -1,12 +1,12 @@
 package rest
 
 import (
-	okex "chain-tactics/okex-sdk"
-	requests "chain-tactics/okex-sdk/requests/rest/subaccount"
-	responses "chain-tactics/okex-sdk/responses/sub_account"
 	"encoding/json"
 	"net/http"
 	"strings"
+	okex "tactics-okex-sdk"
+	requests "tactics-okex-sdk/requests/rest/subaccount"
+	responses "tactics-okex-sdk/responses/sub_account"
 )
 
 // SubAccount

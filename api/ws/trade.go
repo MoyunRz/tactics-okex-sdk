@@ -1,8 +1,8 @@
 package ws
 
 import (
-	"chain-tactics/okex-sdk"
-	requests "chain-tactics/okex-sdk/requests/ws/trade"
+	okex_sdk "tactics-okex-sdk"
+	requests "tactics-okex-sdk/requests/ws/trade"
 )
 
 // Trade

@@ -1,9 +1,9 @@
 package public
 
 import (
-	"chain-tactics/okex-sdk/events"
-	"chain-tactics/okex-sdk/models/market"
-	"chain-tactics/okex-sdk/models/publicdata"
+	"tactics-okex-sdk/events"
+	"tactics-okex-sdk/models/market"
+	"tactics-okex-sdk/models/publicdata"
 )
 
 type (
